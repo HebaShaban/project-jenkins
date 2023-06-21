@@ -8,10 +8,15 @@ Jenkins Pipeline syntax is based on the Groovy programm0ing language that branch
 
 # 3) What are the different ways to trigger pipeline?
 -Trigger builds remotely.
+
 -Build after other projects are built.
+
 -Build periodically.
+
 -GitHub hook trigger for GITScm polling.
+
 -Poll SCM.
+
 
 # 4) What is different between parameter and jenkins env variable?
 -Above we saw parameters but the main difference between parameters and environment variable is that parameters can be set only to a single project where as environment variable can be set to a one or more projects if it is located in a same source
@@ -41,7 +46,7 @@ I used this repository
 # ![Con2](https://github.com/HebaShaban/project-jenkins/assets/128882939/cc357ee1-bd1d-41ac-8724-b9e6ea6d47a5)
 
 # 7) Create another multibranch pipeline and filter branches to contain only (master , dev , test )?
-# Multibranch git configuration
+# -Multibranch git configuration
 # ![brache](https://github.com/HebaShaban/project-jenkins/assets/128882939/047cdf86-bab8-4ecb-8b54-469a371601bd)
 # ![branch](https://github.com/HebaShaban/project-jenkins/assets/128882939/51972f2b-2e61-4690-824f-65774ef1d63c)
 # -scan log
