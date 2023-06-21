@@ -1,5 +1,6 @@
 # Jenkins Task 2 - Configuring Pipeline and Multibranch Pipeline
-#1)What is Jenkins pipeline?
+# 1)What is Jenkins pipeline?
+
 is a suite of plugins that supports implementing and integrating continuous delivery pipelines into Jenkins. This allows you to automate the process of getting software from version control through to your users and customers
 
 # 2) What scripting language is Jenkins pipeline syntax based on?
