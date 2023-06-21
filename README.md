@@ -33,7 +33,7 @@ I used this repository
 
 # ![pipeline run2](https://github.com/HebaShaban/project-jenkins/assets/128882939/9e30b524-5d27-4e5b-ae10-010695300ff8)
 
-#output successfully build
+# -Output successfully build
 
 # ![output pipeline](https://github.com/HebaShaban/project-jenkins/assets/128882939/db10011d-cb09-40f8-bff2-de6baa035ad8)
 # ![Conf1](https://github.com/HebaShaban/project-jenkins/assets/128882939/9c602c78-bcec-4ec8-bebc-b19a645c6956)
@@ -43,9 +43,9 @@ I used this repository
 # Multibranch git configuration
 # ![brache](https://github.com/HebaShaban/project-jenkins/assets/128882939/047cdf86-bab8-4ecb-8b54-469a371601bd)
 # ![branch](https://github.com/HebaShaban/project-jenkins/assets/128882939/51972f2b-2e61-4690-824f-65774ef1d63c)
-# scan log
+# -scan log
 # ![output branch](https://github.com/HebaShaban/project-jenkins/assets/128882939/536af85b-67b0-40a0-bb92-d80554158cec)
-# branch status
+# -branch status
 # ![run branch](https://github.com/HebaShaban/project-jenkins/assets/128882939/daaa5a60-d68d-48db-99b3-1d3113c42950)
 
 
